@@ -154,9 +154,9 @@ body {
  }
 
 .footer {
-    background-color: var(--color-secundario);
+    background-color: cornflowerblue;
     color: var(--color-terciario);
-    padding: 24px;
+    padding: 1rem;
     text-align: center;
     font-family: var(--fuente--monserrat);
     font-size: 1.5rem;
