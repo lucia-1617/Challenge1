@@ -54,6 +54,11 @@ body {
     font-size: 2.5rem;
     font-family: var(--fuente--monserrat);
     cursor: pointer;
+    height: auto;
+    margin-bottom: 50%;
+    width: 100%; 
+    padding: 10px; 
+    box-sizing: border-box; 
  }
 
  .contenedor--section--input::placeholder{
@@ -67,7 +72,7 @@ body {
     font-family: var(--fuente-krona);
     color: var(--color-quinto);
     font-weight: 500;
-    margin-top: 50%;
+    
 
  }
 
